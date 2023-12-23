@@ -17,3 +17,18 @@ Open your C++ compiler. You can use popular compilers like Code::Blocks, Visual 
 FUTURE SCOPE
 Advanced Graph Analysis: Explore and implement advanced graph algorithms for more in-depth social network analysis.
 Enhanced Security Measures: Integrate additional security features to enhance user authentication and data protection
+SCREENSHOTS OF THE PROJECT FUNCTIONALITY:
+REGISTRATION PAGE:
+![image](https://github.com/Vanshika1217/SOCIALNETWORK/assets/125783450/6287b556-b83e-45f8-bfd4-d318e828825d)
+MAIN PAGE:
+![image](https://github.com/Vanshika1217/SOCIALNETWORK/assets/125783450/afb972ef-9a50-4685-8767-9a507326067f)
+ADDING AND CONNECTING PEOPLE:
+![image](https://github.com/Vanshika1217/SOCIALNETWORK/assets/125783450/331cbc21-2f96-4496-8c7e-a4481df2d3e3)
+FINDING MUTUAL PATHS:
+![image](https://github.com/Vanshika1217/SOCIALNETWORK/assets/125783450/69f31075-a410-4749-abe1-1a094486bc0f)
+FUNCTIONALITY FOR MANAGING POSTS:
+![image](https://github.com/Vanshika1217/SOCIALNETWORK/assets/125783450/02f09ff2-7fb8-4edb-952d-ac9a42ed4e05)
+
+
+
+
